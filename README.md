@@ -2,7 +2,11 @@
 
 ![Screenshot](screenshot.png)
 
-A clean, Apple TV–style home screen for Android TV, based on [Gathin's tv-vibehack](https://github.com/Gathin23/tv-vibehack) (MIT), customized with:
+A clean, Apple TV–style home screen for Android TV.
+
+> **Credits / Based on:** This project is a customization of [Gathin's tv-vibehack](https://github.com/Gathin23/tv-vibehack) (MIT license) — the original launcher package is `com.gathin.tvhome`. Huge thanks to [Gathin](https://github.com/Gathin23) for the original work; this repo only changes the look (black text, RAM label, wallpaper) and bundles a setup guide. All credit for the launcher itself goes to the original author.
+
+Customized with:
 
 - **Black header text** (clock, greeting, date, app-name title) and **black pills** (Inputs, Wi-Fi, Settings) for light wallpapers.
 - **RAM label** under the clock (`RAM 896/2007 MB free`).
@@ -119,6 +123,11 @@ Edit `launcher/app/src/main/res/values/config.xml`:
 - `hidden_apps` — never shown.
 
 Then rebuild (Option B) or push a theme via `tools/theme.sh`.
+
+## Credits
+
+- [Gathin / tv-vibehack](https://github.com/Gathin23/tv-vibehack) — the original launcher (`com.gathin.tvhome`) and the debloat tooling this repo is built on (MIT).
+- Itachi wallpaper artwork © its respective owner — used for personal display only.
 
 ## License
 
