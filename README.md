@@ -1,5 +1,7 @@
 # Itachi-Style TV
 
+![Screenshot](screenshot.png)
+
 A clean, Apple TV–style home screen for Android TV, based on [Gathin's tv-vibehack](https://github.com/Gathin23/tv-vibehack) (MIT), customized with:
 
 - **Black header text** (clock, greeting, date, app-name title) and **black pills** (Inputs, Wi-Fi, Settings) for light wallpapers.
