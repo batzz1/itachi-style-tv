@@ -2,9 +2,13 @@
 
 ![Screenshot](screenshot.png)
 
-A clean, Apple TV–style home screen for Android TV.
+> ### ⭐ Credit where it's due
+> This project is a customization of **[Gathin's tv-vibehack](https://github.com/Gathin23/tv-vibehack)** (MIT).
+> The original launcher package is `com.gathin.tvhome`, authored by [Gathin](https://github.com/Gathin23).
+> All credit for the launcher and the debloat tooling goes to the original author.
+> **Please star the original repo:** https://github.com/Gathin23/tv-vibehack
 
-> **Credits / Based on:** This project is a customization of [Gathin's tv-vibehack](https://github.com/Gathin23/tv-vibehack) (MIT license) — the original launcher package is `com.gathin.tvhome`. Huge thanks to [Gathin](https://github.com/Gathin23) for the original work; this repo only changes the look (black text, RAM label, wallpaper) and bundles a setup guide. All credit for the launcher itself goes to the original author.
+A clean, Apple TV–style home screen for Android TV.
 
 Customized with:
 
